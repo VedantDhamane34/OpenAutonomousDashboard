@@ -2,8 +2,6 @@
 
 A Spring Boot web application with JSP frontend and MySQL database integration for autonomous dashboard functionality.
 
-![Main Page](images/mainpage.png)
-
 ## 📋 Table of Contents
 
 - [Features](#features)
